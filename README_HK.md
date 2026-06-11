@@ -44,7 +44,8 @@
 
 🛠️ **技術棧**：ESP32-C6, STM32, BMI088, ADXL355, FreeRTOS, UWB/IMU融合, Electron, MATLAB
 
-📖 [檢視專案詳細介紹 →](https://joey0609.github.io/research/cooperative-positioning)
+📖 [成果論文：實時足綁慣性導航 →](https://joey0609.github.io/posts/004_realtime_footmounted_ins/real_time_foot_mounted_ins/)
+📖 [成果論文：無基站初始方向自動對齊 →](https://joey0609.github.io/posts/005_anchor_free_auto_alignment/anchor_free_auto_alignment/)
 
 ### 2. 基於深度學習的多場景 PDR（行人航位推算）
 *2026.01 – 至今* | **角色**：專案負責人

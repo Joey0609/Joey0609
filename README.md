@@ -17,7 +17,7 @@
 
 - ⚡ **Coding is my favorite pastime. Nothing beats the sense of accomplishment when my ideas finally work.**
 
-- 📝 I regularly write articles on **[https://joey0609.github.io](https://joey0609.github.io)**
+- 📝 I regularly write articles on **[Joey's Blog](https://joey0609.github.io)**
 
 ---
 
@@ -40,7 +40,8 @@ Built a complete multi-node cooperative positioning platform, including sensing 
 
 🛠️ **Tech Stack**: ESP32-C6, STM32, BMI088, ADXL355, FreeRTOS, UWB/IMU Fusion, Electron, MATLAB
 
-📖 [View detailed project introduction →](https://joey0609.github.io/research/cooperative-positioning)
+📖 [Publication: Real-Time Foot-Mounted INS →](https://joey0609.github.io/posts/004_realtime_footmounted_ins/real_time_foot_mounted_ins/)
+📖 [Publication: Anchor-Free Auto Alignment →](https://joey0609.github.io/posts/005_anchor_free_auto_alignment/anchor_free_auto_alignment/)
 
 ### 2. Deep Learning Based Multi-scenario PDR
 *Jan 2026 – Present* | **Role**: Project Leader

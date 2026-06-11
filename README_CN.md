@@ -41,7 +41,8 @@
 
 🛠️ **技术栈**：ESP32-C6, STM32, BMI088, ADXL355, FreeRTOS, UWB/IMU融合, Electron, MATLAB
 
-📖 [查看项目详细介绍 →](https://joey0609.github.io/research/cooperative-positioning)
+📖 [成果论文：实时足绑惯性导航 →](https://joey0609.github.io/posts/004_realtime_footmounted_ins/real_time_foot_mounted_ins/)
+📖 [成果论文：无基站初始方向自动对齐 →](https://joey0609.github.io/posts/005_anchor_free_auto_alignment/anchor_free_auto_alignment/)
 
 ### 2. 基于深度学习的多场景 PDR（行人航位推算）
 *2026.01 – 至今* | **角色**：项目负责人
